@@ -1,0 +1,14 @@
+  [{
+  	"modid": "cmk_asm",
+  	"name": "Anti-StripMine",
+  	"description": "Makes ore only generate around caves",
+  	"version": "0.1.0",
+  	"mcversion": "${mcversion}",
+  	"url": "",
+  	"updateUrl": "",
+  	"authorList": ["captainmk"],
+  	"credits": "",
+  	"logoFile": "assets/antistripmine/icon.png",
+  	"screenshots": [],
+  	"dependencies": []
+  }]
